@@ -10,6 +10,8 @@
 </p>
 -->
 
-<a href="https://www.linkedin.com/in/xshpakx/">
-  <img src="https://github.com/xshpakx/xshpakx/blob/main/assets/johntravolta.gif">
-</a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/xshpakx/">
+        <img src="https://github.com/xshpakx/xshpakx/blob/main/assets/johntravolta.gif">
+    </a>
+</p>
