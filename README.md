@@ -4,8 +4,12 @@
 
 [![GIF](https://github.com/xshpakx/xshpakx/blob/main/assets/johntravolta.gif)](https://www.linkedin.com/in/xshpakx/)
 
--->
 
 <p align="center">
 <img src="https://github.com/xshpakx/xshpakx/blob/main/assets/johntravolta.gif">
 </p>
+-->
+
+<a href="https://www.linkedin.com/in/xshpakx/">
+  <img src="https://github.com/xshpakx/xshpakx/blob/main/assets/johntravolta.gif">
+</a>
