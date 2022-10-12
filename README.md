@@ -8,6 +8,6 @@
 
 <p align="center">
 
-  <img src="https://github.com/xshpakx/xshpakx/blob/main/assets/johntravolta.gif">
+  <a href="sample.html"><img src="https://github.com/xshpakx/xshpakx/blob/main/assets/johntravolta.gif"></a>
 
 </p>
