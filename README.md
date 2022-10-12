@@ -7,7 +7,5 @@
 -->
 
 <p align="center">
-
-  <a href="sample.html"><img src="https://github.com/xshpakx/xshpakx/blob/main/assets/johntravolta.gif"></a>
-
+<img src="https://github.com/xshpakx/xshpakx/blob/main/assets/johntravolta.gif">
 </p>
